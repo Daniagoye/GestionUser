@@ -35,8 +35,8 @@
 	            <div class="card-body">
 	              <form action="" class="form" method="POST">
 	                <div class="form-group mt-4">
-	                  <label for="login">Username *</label>
-	                  <input type="text" class="form-control" id="login" name="login" placeholder="Username" value="${ login }" autofocus=true>
+	                  <label for="login">Login *</label>
+	                  <input type="text" class="form-control" id="login" name="login" placeholder="Login" value="${ login }" autofocus=true>
 	                </div>
 	                <div class="form-group mt-4">
 	                  <label for="password">Mot de passe *</label>
