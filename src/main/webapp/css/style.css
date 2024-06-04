@@ -5,7 +5,6 @@ body{
   position: relative;
   width: 1000px;
   height: 100% ;
-  box-shadow: 0px 1px 10px 2px  #22a5d0;
 }
 
 header{
@@ -134,6 +133,9 @@ fieldset{
 
 .erreur{
 	color: #ff0000 ;
+}
+.label{
+	text-align: right;
 }
 
 footer{
